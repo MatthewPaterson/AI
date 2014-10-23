@@ -11,11 +11,4 @@ def delayOp(filename,delay):
 		counter += 1
 	else:
 		newfile.write(buffer)
-
-			
-
-
-
-
-
-delayOp('laboratory.txt',15)
+delayOp('laboratory.txt',5)
